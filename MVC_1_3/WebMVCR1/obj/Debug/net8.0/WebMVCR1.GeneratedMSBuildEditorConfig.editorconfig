@@ -41,3 +41,11 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/ASP.NET_Labs/MVC_1_3/WebMVCR1/Views/Home/ListPerson.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0UGVyc29uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.NET_Labs/MVC_1_3/WebMVCR1/Views/_BasicLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0Jhc2ljTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ASP.NET_Labs/MVC_1_3/WebMVCR1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
