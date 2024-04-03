@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj": {}
+    "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj": {}
   },
   "projects": {
-    "E:\\Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj": {
+    "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
+        "projectUniqueName": "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
         "projectName": "WebAppCoreProduct",
-        "projectPath": "E:\\Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
+        "projectPath": "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
         "packagesPath": "C:\\Users\\akhma\\.nuget\\packages\\",
-        "outputPath": "E:\\Labs\\Lab1\\WebAppCoreProduct\\obj\\",
+        "outputPath": "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

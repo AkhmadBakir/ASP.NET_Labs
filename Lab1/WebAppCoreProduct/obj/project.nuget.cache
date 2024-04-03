@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFBYT0wCkUEXpqmgNTU5jhhL0V4joPzJqdDqTMvyzkujijQAsIxH8kn+c6JgH7J0pJYn6KPnOtSAu3gQc+K/rA==",
+  "dgSpecHash": "2eeIjVzpdfjFzjn4iogVQZvTcsZly7E/AC6dBHubCZYMY66kB9DwKmEFlMxVgE6rQySYMCwSIoFRaz0mBdDosA==",
   "success": true,
-  "projectFilePath": "E:\\Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
+  "projectFilePath": "E:\\ASP.NET_Labs\\Lab1\\WebAppCoreProduct\\WebAppCoreProduct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

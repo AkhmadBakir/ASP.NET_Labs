@@ -9,31 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAppCoreProduct
 build_property.RootNamespace = WebAppCoreProduct
-build_property.ProjectDir = E:\Labs\Lab1\WebAppCoreProduct\
+build_property.ProjectDir = E:\ASP.NET_Labs\Lab1\WebAppCoreProduct\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Labs\Lab1\WebAppCoreProduct
+build_property.MSBuildProjectDirectory = E:\ASP.NET_Labs\Lab1\WebAppCoreProduct
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Labs/Lab1/WebAppCoreProduct/Pages/Index.cshtml]
+[E:/ASP.NET_Labs/Lab1/WebAppCoreProduct/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Labs/Lab1/WebAppCoreProduct/Pages/Product.cshtml]
+[E:/ASP.NET_Labs/Lab1/WebAppCoreProduct/Pages/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Labs/Lab1/WebAppCoreProduct/Pages/Shared/_Layout.cshtml]
+[E:/ASP.NET_Labs/Lab1/WebAppCoreProduct/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Labs/Lab1/WebAppCoreProduct/Pages/_ViewImports.cshtml]
+[E:/ASP.NET_Labs/Lab1/WebAppCoreProduct/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Labs/Lab1/WebAppCoreProduct/Pages/_ViewStart.cshtml]
+[E:/ASP.NET_Labs/Lab1/WebAppCoreProduct/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

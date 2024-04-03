@@ -3,35 +3,43 @@
   "WorkspaceRootPath": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\mvcdataviews.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:mvcdataviews.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\person\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\person\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|e:\\asp.net_labs\\mvc_4\\mvcdataviews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CDD83D-870D-40C1-A2BA-96604120601C}|MvcDataViews.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,19 +63,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAACCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T11:20:04.369Z",
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T19:08:16.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MvcDataViews",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\MvcDataViews.csproj",
+              "RelativeDocumentMoniker": "MvcDataViews.csproj",
+              "ToolTip": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\MvcDataViews.csproj",
+              "RelativeToolTip": "MvcDataViews.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T15:40:59.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T11:20:04.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Person\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Edit.cshtml",
@@ -75,12 +106,11 @@
               "RelativeToolTip": "Views\\Person\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T11:18:04.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T11:18:04.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PersonController.cs",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
@@ -88,8 +118,7 @@
               "RelativeToolTip": "Controllers\\PersonController.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAkwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T10:48:28.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T10:48:28.925Z"
             },
             {
               "$type": "Document",
@@ -99,14 +128,13 @@
               "RelativeDocumentMoniker": "Views\\Person\\Delete.cshtml",
               "ToolTip": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Person\\Delete.cshtml",
               "RelativeToolTip": "Views\\Person\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T11:13:52.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T11:13:52.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Person\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Details.cshtml",
@@ -114,12 +142,11 @@
               "RelativeToolTip": "Views\\Person\\Details.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T11:07:08.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T11:07:08.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Person\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Create.cshtml",
@@ -127,12 +154,11 @@
               "RelativeToolTip": "Views\\Person\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T11:00:54.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T11:00:54.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Views\\Person\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
@@ -140,12 +166,11 @@
               "RelativeToolTip": "Views\\Person\\Index.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T10:54:01.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T10:54:01.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Person.cs",
               "DocumentMoniker": "E:\\ASP.NET_Labs\\MVC_4\\MvcDataViews\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
@@ -153,8 +178,7 @@
               "RelativeToolTip": "Models\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T10:44:19.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T10:44:19.342Z"
             }
           ]
         },
