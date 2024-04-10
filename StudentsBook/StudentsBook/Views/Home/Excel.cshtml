@@ -1,0 +1,21 @@
+﻿@model IEnumerable<StudentsBook.Models.Student>
+
+@{
+    ViewData["Title"] = "Excel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h3>Список студентов</h3>
+<table>
+    <tr><td><p>Id</p></td><td><p>Имя</p></td><td><p>Предмет 1</p></td><td><p>Предмет 2</p></td><td><p>Предмет 3</p></td><td><p>Предмет 4</p></td><td><p>Рейтинг студента</p></td></tr>
+    @foreach (var c in ViewBag.Students)
+    {
+        <tr><td><p>@c.Id</p></td><td><p>@c.Name</p></td><td><p>@c.Subject1</p></td><td><p>@c.Subject2</p></td><td><p>@c.Subject3</p></td><td><p>@c.Subject4</p></td><td><p>@c.Rating</p></td></tr>
+    }
+</table>
+
+
+<h3>Сохранить список студентов</h3>
+<tr><td><input type="submit" value="Сохранить" /> </td><td></td></tr>

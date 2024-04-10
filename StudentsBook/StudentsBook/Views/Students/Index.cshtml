@@ -1,0 +1,88 @@
+﻿@model IEnumerable<StudentsBook.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Список студентов</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subject4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Подробности</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<ul class="nav navbar-nav">
+    <li>@Html.ActionLink("Сохранить список студентов", "Excel", "Home")</li>
+</ul>
+
+
+
+<div id="results">
+    <form data-ajax="true" data-ajax-url="/Home/GoodStudents" data-ajax-update="#results" data-ajax-mode="after">
+        <input type="submit" value="Показать 5 лучших студентов" />
+    </form>
+
+    <form data-ajax="true" data-ajax-url="/Home/BadStudents" data-ajax-update="#results" data-ajax-mode="after">
+        <input type="submit" value="Показать 5 худших студентов" />
+    </form>
+</div>
+ 
+ @section scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.js" integrity="sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=" crossorigin="anonymous"></script>
+}

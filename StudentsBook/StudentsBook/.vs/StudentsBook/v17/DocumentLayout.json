@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|e:\\asp.net_labs\\studentsbook\\studentsbook\\views\\home\\goodstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|solutionrelative:views\\home\\goodstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\views\\home\\badstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7770EF64-2CE7-461C-9EE6-F012B7F7D289}|StudentsBook.csproj|solutionrelative:views\\home\\badstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodStudents.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Home\\GoodStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GoodStudents.cshtml",
+              "ToolTip": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Home\\GoodStudents.cshtml",
+              "RelativeToolTip": "Views\\Home\\GoodStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T20:21:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:44:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BadStudents.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Home\\BadStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BadStudents.cshtml",
+              "ToolTip": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Views\\Home\\BadStudents.cshtml",
+              "RelativeToolTip": "Views\\Home\\BadStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:42:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP.NET_Labs\\StudentsBook\\StudentsBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv3EAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:22:34.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
